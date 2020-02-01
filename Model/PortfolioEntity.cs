@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.Azure.Cosmos.Table;
 
-namespace StockMarketBot.Model
+namespace StockMarketBotDiscord.Model
 {
     class PortfolioEntity : TableEntity
     {

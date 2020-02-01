@@ -1,11 +1,11 @@
 ﻿using Microsoft.Azure.Cosmos.Table;
-using StockMarketBot.Model;
+using StockMarketBotDiscord.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StockMarketBot.Utilities
+namespace StockMarketBotDiscord.Utilities
 {
     class CloudTableUtility
     {

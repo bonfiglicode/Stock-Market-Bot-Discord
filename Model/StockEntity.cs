@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace StockMarketBot.Model
+namespace StockMarketBotDiscord.Model
 {
     class StockEntity : TableEntity
     {

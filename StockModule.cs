@@ -1,7 +1,7 @@
 ﻿using Discord.Commands;
 using Microsoft.Azure.Cosmos.Table;
-using StockMarketBot.Model;
-using StockMarketBot.Utilities;
+using StockMarketBotDiscord.Model;
+using StockMarketBotDiscord.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
